@@ -63,7 +63,7 @@ Perfect for self-hosted learning environments, classrooms, or personal practice.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/princegrewall/coding_platform.git
+   git clone https://github.com/codex-Online-coding-contest-platform
    cd coding_platform
    ```
 
@@ -160,4 +160,5 @@ coding_platform/
 5. Open a Pull Request.
 
 ---
+
 
